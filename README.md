@@ -1,6 +1,7 @@
 # Club-deportivo
 
 Descripción
+
 El Club Deportivo Discipline Spa está haciendo negocios con una empresa de software para
 la construcción de su aplicación para control interno que se conecte con la misma base de
 datos de su sitio web. Su requerimiento principal es poder registrar, ver, editar y eliminar los
